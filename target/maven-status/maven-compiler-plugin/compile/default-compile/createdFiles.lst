@@ -1,0 +1,4 @@
+com\sam\phoneBook\config\PhoneBookDispatcherServletInitializer.class
+com\sam\phoneBook\config\SpringRootConfig.class
+com\sam\phoneBook\config\SpringWebConfig.class
+com\sam\phoneBook\controller\TestController.class
