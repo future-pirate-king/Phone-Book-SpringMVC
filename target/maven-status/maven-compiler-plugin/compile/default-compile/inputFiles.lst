@@ -2,3 +2,5 @@ D:\Sam\Web\SpringMVC\Phone-book-app\src\main\java\com\sam\phoneBook\controller\T
 D:\Sam\Web\SpringMVC\Phone-book-app\src\main\java\com\sam\phoneBook\config\SpringWebConfig.java
 D:\Sam\Web\SpringMVC\Phone-book-app\src\main\java\com\sam\phoneBook\config\SpringRootConfig.java
 D:\Sam\Web\SpringMVC\Phone-book-app\src\main\java\com\sam\phoneBook\config\PhoneBookDispatcherServletInitializer.java
+D:\Sam\Web\SpringMVC\Phone-book-app\src\main\java\com\sam\phoneBook\domain\Contact.java
+D:\Sam\Web\SpringMVC\Phone-book-app\src\main\java\com\sam\phoneBook\domain\User.java
